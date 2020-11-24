@@ -1,0 +1,51 @@
+body {
+    background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg.gif");
+    
+    background-color: #cccccc;
+  }
+.mainBody{
+    width: 300px;
+    box-shadow: 2px 5px grey;
+    height: 240px;
+    margin:  auto;
+}
+#result{
+    width: 94%;
+    border: 1px solid rgb(255, 148, 166);
+    background-color: pink;
+    height: 2em;
+    border-radius: 15px 50px 30px 5px;
+}
+/* .divResult{
+    
+} */
+.clear{
+    width: 72.5%;
+    height: 30px;
+    border: red;
+    background-color: rgb(255, 68, 68);
+}
+.btn{
+    width: 70px;
+    height: 30px;
+    margin-top: 10px;
+    border: 1px solid rgb(255, 148, 166);
+    background-color: pink;
+    border-radius: 15px 50px 30px 5px;
+}
+.zerobtn{
+    width: 72.5%;
+    height: 30px;
+    border: 1px solid rgb(255, 148, 166);
+    background-color: pink;
+}
+.divHeading{
+    text-align: center;
+    font-size: 2em;
+    text-shadow: 2px 5px palevioletred;
+    
+    
+}
+.btn:focus{
+    border-color: pink;
+}
